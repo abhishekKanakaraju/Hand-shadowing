@@ -2,8 +2,9 @@
 """
 Created on Fri Sep  3 02:14:34 2021
 
-@author: abhis
+@author: Abhishek Kanakaraju
 """
+
 from ursina import *
 import math
 import cv2
